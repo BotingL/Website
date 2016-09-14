@@ -30,6 +30,11 @@ p
 {
     background-color: lightblue;
 }
+.idphoto
+{
+    position: relative;
+    left: 500px;
+}
 
 table.solid {border-style: solid;}
 table.dotted {border-style: dotted;}
